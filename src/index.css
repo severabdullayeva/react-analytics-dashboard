@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --it-color: #64b5f6;
+  --service-color: #ff8a65;
+  --bg-color: #ffffff;
+  --text-color: #333333;
+}
+
+.dark-theme {
+  --it-color: #90CAF9;     
+  --service-color: #FFAB91; 
+  --bg-color: #1a1a1a;
+  --text-color: #f0f0f0;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease;
+}
