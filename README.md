@@ -1,16 +1,28 @@
-# React + Vite
+# React Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive analytics dashboard built with React. This project provides a clean interface for visualizing industry data, allowing users to filter information by region, category, and year, with additional functionality to export data to CSV.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+Check out the live project here: **[Click here to view the Dashboard](https://vercel.com/sevar-dev/react-analytics-dashboard)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- **Dynamic Filtering:** Filter data sets by Region, Industry Category, and Year using interactive, custom-styled inputs.
+- **Data Visualization:** Built-in custom SVG-based Bar Chart for dynamic data representation.
+- **Dark/Light Mode:** Seamless theme switching for a better user experience, remembered via state management.
+- **CSV Export:** One-click functionality to export your filtered data view to a CSV file.
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Technologies Used
 
-## Expanding the ESLint configuration
+- **Frontend:** React.js
+- **Styling:** CSS3 (Flexbox, Responsive Design, CSS Variables)
+- **Data Handling:** JavaScript
+- **Graphics:** SVG (Scalable Vector Graphics)
+- **Version Control:** Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/severabdullayeva/react-analytics-dashboard.git](https://github.com/severabdullayeva/react-analytics-dashboard.git)
