@@ -26,7 +26,7 @@ export const Controls = ({
         <option value="service">Service Industry</option>
       </select>
 
-      <label>Year</label>
+      <label>Year: {filters.year}</label>
       <input
         type="range"
         min="1992"

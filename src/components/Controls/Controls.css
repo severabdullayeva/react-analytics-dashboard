@@ -4,6 +4,7 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  text-align: center;
   padding: 20px;
   background-color: var(--bg-color);
   border-radius: 16px; 
