@@ -3,7 +3,7 @@
 A modern, responsive analytics dashboard built with React. This project provides a clean interface for visualizing industry data, allowing users to filter information by region, category, and year, with additional functionality to export data to CSV.
 
 ## 🔗 Live Demo
-Check out the live project here: **[Click here to view the Dashboard](https://vercel.com/sevar-dev/react-analytics-dashboard)**
+Check out the live project here: **[https://vercel.com/sevar-dev/react-analytics-dashboard](https://vercel.com/sevar-dev/react-analytics-dashboard)**
 
 ## 🚀 Features
 
