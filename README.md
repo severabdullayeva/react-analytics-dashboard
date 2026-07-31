@@ -25,5 +25,5 @@ Check out the live project here: **[https://vercel.com/sevar-dev/react-analytics
 
 1. **Clone the repository:**
    ```bash
-git clone [https://github.com/severabdullayeva/react-analytics-dashboard.git](https://github.com/severabdullayeva/react-analytics-dashboard.git)
+   git clone [https://github.com/severabdullayeva/react-analytics-dashboard.git](https://github.com/severabdullayeva/react-analytics-dashboard.git)
 
